@@ -1,5 +1,7 @@
 # WSS ( Web SQL Search )
 
+**GUI VERSION**<br/>
+
 **ENGLISH:**<br/>
 What is WSS tools ? wss tool is a tool for gathering or searching websites that are vulnerable to sql injection, and This tool only for Linux<br/>
 
