@@ -1,9 +1,9 @@
 # WSS ( Web SQL Search )
 
-**ENGLISH:**
-What is WSS tools ? wss tool is a tool for gathering or searching websites that are vulnerable to sql injection
+**ENGLISH:**<br/>
+What is WSS tools ? wss tool is a tool for gathering or searching websites that are vulnerable to sql injection<br/>
 
-**INDONESIA:**
+**INDONESIA:**<br/>
 alat wss adalah alat untuk mengumpulkan atau mencari situs web yang rentan terhadap sql injection.
 
 # Screnshoot
