@@ -11,7 +11,7 @@ Apa itu tool WSS? alat wss adalah alat untuk mengumpulkan atau mencari situs web
 # Screnshoot
 
 ![0](https://github.com/Ranginang67/WSS/blob/master/ex/1.png)
-<br/>
+<br/><br/><br/><br/><br/>
 ![1](https://github.com/Ranginang67/WSS/blob/master/ex/2.png)
 
 **INSTALL (Just copy this command and paste to your terminal)**
