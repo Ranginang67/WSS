@@ -14,9 +14,13 @@ Apa itu tool WSS? alat wss adalah alat untuk mengumpulkan atau mencari situs web
 <br/><br/><br/><br/>
 ![1](https://github.com/Ranginang67/WSS/blob/master/ex/2.png)
 
-**INSTALL (Just copy this command and paste to your terminal)**
+**INSTALL**
 
-`wget https://gist.githubusercontent.com/Ranginang67/607055fc61051e5e6dc88af43fad4012/raw/bc337d83de034bc6647909c3ba57be444ca73466/WSS%2520Installer -O WssInstaller.sh && chmod 777 -R WssInstaller.sh && ./WssInstaller.sh`
+`wget http://download939.mediafire.com/1yn4ri1pz2gg/8pgqqqhbw6zdiok/wss`
+`chmod 777 -R wss`
+Run wss
+`./wss`
+Or just double click wss file to run
 
 
 # support me
