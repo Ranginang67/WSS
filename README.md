@@ -16,10 +16,10 @@ Apa itu tool WSS? alat wss adalah alat untuk mengumpulkan atau mencari situs web
 
 **INSTALL**
 
-`wget http://download939.mediafire.com/1yn4ri1pz2gg/8pgqqqhbw6zdiok/wss
-chmod 777 -R wss`
-Run wss
-`./wss`
+`wget http://download939.mediafire.com/1yn4ri1pz2gg/8pgqqqhbw6zdiok/wss`<br>
+`chmod 777 -R wss`<br>
+Run wss<br>
+`./wss`<br>
 Or just double click wss file to run
 
 
